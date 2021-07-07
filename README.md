@@ -12,5 +12,5 @@ Always Learning :blue_book:
 
 - <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fredleal&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fredleal&layout=compact&langs_count=8&theme=react"/>
 
-- 📫 How to reach me: flm_@msn.com
+- 📫 Reach me: flm_@msn.com
 
