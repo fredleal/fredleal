@@ -10,6 +10,7 @@ Always Learning :blue_book:
 - <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"></i> <img align="left" width="22px"    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg"></i> <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"></i>
 
 
-- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fredlealshow_icons=true&theme=react&include_all_commits=true&count_private=true"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheusdias20&layout=compact&langs_count=8&theme=react"/>
+- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fredleal&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheusdias20&layout=compact&langs_count=8&theme=react"/>
 
 - 📫 How to reach me: flm_@msn.com
+&
