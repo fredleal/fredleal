@@ -5,7 +5,7 @@
 
 Always Learning :blue_book:
 
-- 🔭 Currently working as Volunteer at LabTEVE(UFPB) as a Serious Games Developer(Unity, C#)
+- 🔭 Currently working as Volunteer at LabTEVE(UFPB) as a Serious Games Developer(Unity, C#)<br />
 - 🌱 Learning: Front-End Web Development: <img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"></i> <img  width="42px"    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></i> <img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"></i><br /><br />
 
 
