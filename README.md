@@ -11,5 +11,4 @@ Always Learning :blue_book:
 
  <img align="middle" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fredleal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img align="middle" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fredleal&layout=compact&langs_count=8&theme=dracula"/>
 
-- 📫 Reach me: flm_@msn.com
 
